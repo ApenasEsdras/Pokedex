@@ -1,3 +1,7 @@
+.title{
+    text-align: center;
+    font-size: 5rem;
+}
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -72,4 +76,15 @@
     background-color: #6c79db;
     border: none;
     border-radius: 1rem;
+}
+#Details{
+    margin: auto;
+    width: 60%;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: .625rem;
+    border-radius: .2rem;
+    text-align: center;
+    margin-top: 1rem;
+   
 }
